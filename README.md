@@ -6,7 +6,7 @@
 * Projects page
 ***
 **How to install:**  
-* git clone https://github.com/lozanasc/lozanasc_old.git
+* git clone **this repository**  
 * git checkout -t origin/FirstPortfolio  
 **or**  
 Download from the Website/Client
